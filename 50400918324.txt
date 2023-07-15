@@ -1,7 +1,0 @@
-Account Number : 50400918324
-Customer Name : djh
-Contact : asa
-DateOfBirth : aha
-Address : abda
-Email Address : dba
-Balance: 2000.0
